@@ -1,0 +1,12 @@
+*/History/
+
+*.*/
+
+*/Project Outputs for */*
+!*.IntLib
+
+*/Project Logs for */
+
+*/__Previews/
+
+.idea
